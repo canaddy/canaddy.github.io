@@ -5,9 +5,52 @@
     <description></description>
     <link>http://canaddy.github.io/</link>
     <atom:link href="http://canaddy.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 15:50:17 +0800</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 15:50:17 +0800</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2017 21:09:58 +0800</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2017 21:09:58 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>opengl个人笔记 day one</title>
+        <description>&lt;p&gt;引擎版本 &lt;a href=&quot;http://www.cocoachina.com/bbs/read.php?tid-318856.html&quot;&gt;cocos 3.7.1&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 +0800</pubDate>
+        <link>http://canaddy.github.io/2016/10/cocosjs/</link>
+        <guid isPermaLink="true">http://canaddy.github.io/2016/10/cocosjs/</guid>
+        
+        <category>博客</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mac OS下自带了apache 启动</title>
+        <description>&lt;h1 id=&quot;mac-osapache-&quot;&gt;Mac OS下自带了apache 启动&lt;/h1&gt;
+
+&lt;p&gt;服务器配置路径： open /etc／apache2／httpd.conf&lt;/p&gt;
+
+&lt;p&gt;服务器路径：/Library/WebServer/Documents&lt;/p&gt;
+
+&lt;p&gt;服务器网址：localhost或者127.0.0.1&lt;/p&gt;
+
+&lt;p&gt;终端指令：
+sudo apachectl start/restart 
+sudo apachectl stop&lt;/p&gt;
+
+&lt;p&gt;新建项目:
+cocos new demo -p com.canaddy.qq -l js -d ./&lt;/p&gt;
+
+&lt;p&gt;运行项目:
+cocos run -p web -s /Users/liaofacan/workspace/babybus/js/demo –port 8003&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 +0800</pubDate>
+        <link>http://canaddy.github.io/2016/10/learnJs/</link>
+        <guid isPermaLink="true">http://canaddy.github.io/2016/10/learnJs/</guid>
+        
+        <category>博客</category>
+        
+        
+      </item>
     
       <item>
         <title>测试</title>
